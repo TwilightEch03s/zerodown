@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="1">
+ <editorsettings>
+  <export target="water.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="water-packed" tilewidth="16" tileheight="16" tilecount="168" columns="12">
+  <image source="water.png" width="192" height="224"/>
+ </tileset>
+ <layer id="1" name="water" width="10" height="10">
+  <data encoding="csv">
+6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6,
+6,6,6,6,6,6,6,6,6,6
+</data>
+ </layer>
+ <layer id="2" name="water2" width="10" height="10">
+  <data encoding="csv">
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7
+</data>
+ </layer>
+</map>
